@@ -1,0 +1,53 @@
+Timestamp,Zone Name,Profession,Uses,Consumes,Produces
+7/7/2022 19:20,Theatre,Acting,"Theatre Stage, Wooden Bench",None,None
+7/1/2022 16:52,Alchemists Workshop,Alchemy,"Alchemist's Workshop, Cauldron, Chest, Ground Storage, Oven, Shelves, Store Front, Well, Wooden Block","Dandellion, Echinacea, Lavender, Magic Potion, Mushrooms, Transmutation Potion","Health Potion, Magic Potion, Philosopher Stone, Stamina Potion, Transmutation Potion"
+7/1/2022 18:04,Builders Guild,Architecture,"Builder's Desk, Chest, Ground Storage, Store Front, Well","Stone Block, Clay, Rope",Advanced Repair Kit
+7/1/2022 16:59,Artists Workshop,Art,"Art Station, Blast Furnace, Chest, Ground Storage, Sculpting Station, Store Front, Wooden Block","Bronze Ingot, Coal, Copper Ore, Firewood, Gold Ingot, Paper Stack, Silver Ingot, Stone Block, Plank, Stone","Art, Bronze Statue, Golden Statue, Silver Statue, Stone Statue"
+7/1/2022 17:01,Bakery,Baking,"Cooking Table, Ground Storage, Oven, Shelves, Store Front, Well, Wooden Block","Apples, Blueberries, Carrot, Firewood, Flour, Meat, Pears, Pumpkin","Apple Pie, Blueberry Pie, Bread, Carrot Pie, Meat Pie, Pear Pie, Pumpkin Pie"
+7/1/2022 16:53,Apiary,Beekeeping,"Beehive, Chest, Honey Extractor, Shelves",None,"Honey, Wax"
+7/7/2022 18:39,Forge,Blacksmithing,"Anvil, Blast Furnace, Cabinet, Chest, Cooling Casket, Grinding Stone, Ground Storage, Smithing Workshop, Store Front, Weapon Rack, Well, Wooden Block","Firewood, Steel Rod, Plank, Steel Ingot, Steel Plate","Helmet, Horseshoe, Plate Armor, Spear, Steel Rod, Steel Shield, Sword, Tool, Warhammer, Steel Plate, Steel Greaves"
+7/1/2022 18:01,Bowyers Workshop,Bowmaking,"Bowyer's Workshop, Chest, Store Front, Weapon Rack","Steel Rod, Yarn, Plank","Bow, Crossbow"
+7/1/2022 18:03,Brewery,Brewing,"Barrel, Barrel Rails, Brewing Station, Cauldron, Filtering Tub, Ground Storage, Silo, Store Front, Trellis, Well, Wooden Block","Firewood, Corn, Rice Grain, Hops, Plank, Straw","Beer Barrel, Hops"
+7/7/2022 18:27,Butchery,Butchering,"Butcher's Table, Knackery, Meat Hooks, Outdoor Feeder, Shelves, Silo, Store Front","Grain, Meat","Meat, Sausage, Hide"
+7/7/2022 18:28,Carpentry,Carpentering,"Builder's Desk, Chest, Ground Storage, Store Front","Plank, Wood Rod",Basic Repair Kit
+7/7/2022 19:04,Mint,Coinkmaking,"Blast Furnace, Chest, Coinmaking Workshop, Ground Storage, Wooden Block","Bronze Ingot, Firewood, Gold Ingot, Silver Ingot",Money
+7/7/2022 18:36,Farmland,Farming,"Barrel, Cauldron, Chicken Bed, Churn, Cooking Table, Farming Soil, Flailing Spot, Ground Storage, Knackery, Outdoor Feeder, Shelves, Silo, Store Front, Tree","Barley, Firewood, Milk, Oat, Rice, Rye, Wheat","Apples, Barley, Butter, Cabbage, Carrot, Cheese, Corn, Egg, Grain, Melon, Milk, Oat, Parsnip, Pears, Potato, Pumpkin, Rice, Rice Grain, Rye, Wheat, Wool, Straw"
+7/7/2022 18:37,Fishing Pool,Fishing,"Barrel, Fishing Net, Fishing Rod, Store Front",None,Fish
+7/7/2022 19:10,Royal Forest,Foraging,"Chest, Ground Storage, Knackery, Outdoor Feeder, Saw Horse, Store Front, Tree",Wood,"Blueberries, Mushrooms, Plank, Clay, Wood Rod, Wood"
+7/7/2022 18:42,Glass Mill,Glassmaking,"Glass Furnace, Ground Storage, Store Front, Wooden Block","Firewood, Sand","Glass, Sand"
+7/7/2022 18:43,Graveyard,Graveyardkeeping,"Memorial Grave, Stone Grave, Wooden Grave",None,None
+7/1/2022 16:55,Apothecary,Herbalism,"Apothecary Table, Chest, Homegrowing Pot, Shelves, Well","Bronze Ingot, Dandellion, Echinacea, Firewood, Lavender, Mushrooms, Salve, Silk, Wax","Bandage, Cure, Dandellion, Echinacea, Lavender, Mushrooms, Salve"
+7/7/2022 18:50,Hunting Area,Hunting,"Cabinet, Forest Feeder, Hideout, Knackery, Store Front, Trap, Weapon Rack",None,None
+7/7/2022 19:14,Scribery,Inscription,"Chest, Wooden Block, Writing Table",Paper Stack,Manuscript
+7/7/2022 18:54,Jewelry Workshop,Jewelcrafting,"Blast Furnace, Chest, Ground Storage, Jewelcrafting Table, Store Front, Wooden Block","Bronze Ingot, Firewood, Gold Ingot, Silver Ingot, Gem Ore, Gem, Bronze Rod, Silver Rod, Gold Rod","Bronze Jewelry, Golden Jewelry, Silver Jewelry, Gem, Bronze Rod, Silver Rod, Gold Rod"
+7/7/2022 18:59,Leather Workshop,Leatherworking,"Chest, Leatherworking Table, Store Front","Plank, Steel Plate, Leather","Drawstring Boots, Front Laced Boots, Heavy Leather Armor, High String Boots, Horse Saddle, Leather Armor, Leather Shield, Leather Shoes"
+7/7/2022 19:00,Library,Librarianship,"Bookcase, Chest, Wooden Chair, Writing Table",None,None
+7/7/2022 19:02,Masonry,Masoning,"Ground Storage, Store Front, Wooden Block","Stone Block, Stone, Limestone, Limestone Block","Stone Block, Limestone Block, Stone Tile, Limestone Tile"
+7/7/2022 19:25,Windmill,Milling,"Ground Storage, Silo, Store Front, Windmill","Corn, Rice Grain",Flour
+7/7/2022 19:04,Mining Field,Mining,"Ground Storage, Store Front",Firewood,"Coal, Copper Ore, Iron ore, Silver Ore, Gold Ore, Gem Ore, Stone, Limestone"
+7/1/2022 17:02,Barracks,None,"Cabinet, Shelves, Standing Candle, Straw Bed, Training Dummy, Wooden Table",None,None
+7/7/2022 18:28,Caravan Marketplace,None,"Campfire, Caravan Storage, Store Front",None,None
+7/7/2022 18:31,Chapel,None,"Bookcase, Flower Pot, Good Stone Bench, Good Stone Chair, Speaking Table, Standing Candle",None,None
+7/7/2022 18:31,Church,None,"Flower Pot, Speaking Table, Standing Candle, Wooden Bench, Wooden Chair",None,None
+7/7/2022 18:32,Cottage,None,"Cabinet, Campfire, Ground Storage, Straw Bed, Wooden Block, Wooden Chair, Wooden Table",None,None
+7/7/2022 18:33,Execution Site,None,"Execution Display, Fireplace, Public Stage, Wooden Bench, Wooden Chair",None,None
+7/7/2022 18:49,Household,None,"Barrel, Cabinet, Campfire, Cauldron, Chest, Cooking Table, Ground Storage, Shelves, Standing Candle, Straw Bed, Straw Double Bed, Well, Wooden Block, Wooden Chair, Wooden Table","Ingredients, Wood","Excellent Meal, Firewood, Golden Statue, Good Meal, Normal Meal"
+7/7/2022 18:52,Inn,None,"Bar, Barrel, Barrel Rails, Campfire, Cauldron, Cooking Table, Ground Storage, Shelves, Standing Candle, Straw Bed, Well, Wooden Bench, Wooden Block, Wooden Chair, Wooden Table","Beer Barrel, Mead Barrel","Beer Pint, Normal Meal, Mead Glass"
+7/7/2022 18:53,Jail,None,"Jail Bench, Jail Chair, Shelves, Straw Bed",None,None
+7/7/2022 18:56,Kitchen,None,"Barrel, Cauldron, Cooking Table, Ground Storage, Shelves, Well, Wooden Block","Ingredients, Wood","Excellent Meal, Firewood, Good Meal, Normal Meal"
+7/7/2022 19:01,Manor,None,"Barrel, Cabinet, Cauldron, Chest, Cooking Table, Fireplace, Good Wooden Table, Ground Storage, Noble Bed, Nouble Double Bed, Shelves, Standing Candle, Upholstered Chair, Well, Wooden Block",None,None
+7/7/2022 19:02,Marketplace,None,"Campfire, Store Front",None,None
+7/7/2022 19:06,Public Area,None,"Campfire, Stone Bench, Stone Chair, Well, Wooden Bench, Wooden Chair",None,None
+7/7/2022 19:08,Quarters,None,"Barrel, Cabinet, Campfire, Cauldron, Chest, Cooking Table, Ground Storage, Standing Candle, Store Front, Straw Bed, Straw Double Bed, Well, Wooden Block, Wooden Chair, Wooden Table",Wood,"Excellent Meal, Firewood, Good Meal, Normal Meal"
+7/7/2022 19:14,Shrine,None,"Altar, Well",None,Holy Water
+7/7/2022 19:15,Stables,None,"Cauldron, Chest, Chicken Bed, Churn, Cooking Table, Knackery, Outdoor Feeder, Shelves","Firewood, Milk, Rice, Wheat","Butter, Cheese, Egg, Milk, Wool"
+7/7/2022 19:20,Tavern,None,"Bar, Barrel, Barrel Rails, Cauldron, Cooking Table, Expensive Bed, Fireplace, Good Stone Bench, Good Stone Chair, Good Wooden Bench, Good Wooden Chair, Good Wooden Table, Ground Storage, Shelves, Standing Candle, Well, Wooden Block","Excellent Meal, Good Meal, Mead Barrel, Wine Barrel","Excellent Meal, Good Meal, Mead Glass, Wine Cup"
+7/7/2022 19:22,Villa,None,"Barrel, Cabinet, Campfire, Cauldron, Chest, Cooking Table, Expensive Bed, Expensive Double Bed, Ground Storage, Standing Candle, Well, Wooden Block, Wooden Chair, Wooden Table","Ingredients, Wood","Excellent Meal, Firewood, Good Meal, Normal Meal"
+7/7/2022 19:23,Warehouse,None,"Barrel, Barrel Rails, Cabinet, Campfire, Chest, Ground Storage, Shelves, Silo, Store Front, Well",None,None
+7/7/2022 18:44,Hospital,Nursing,"Shelves, Straw Bed, Tending Station","Bandage, Cure, Salve",None
+7/7/2022 19:05,Paper Mill,Papermaking,"Chest, Paper Drier, Paper Mill, Paper Sieve",Rag,Paper Stack
+7/7/2022 19:09,Rope Mill,Ropemaking,"Chest, Ground Storage, Rope Walk, Store Front",Yarn,Rope
+7/7/2022 18:41,Furnace,Smelting,"Bloomery, Ground Storage, Oven, Store Front, Wooden Block","Coal, Copper Ore, Firewood, Clay, Steel Ingot, Iron ore, Silver Ore, Gold Ore","Bronze Ingot, Gold Ingot, Silver Ingot, Clay, Steel Ingot, Brick, Rag"
+7/7/2022 19:17,Tailors Workshop,Tailoring,"Cabinet, Chest, Loom, Spinning Wheel, Store Front, Tailoring Workshop","Silk, Wool, Yarn","Cape, Clothes, Fine Clothes, Robe, Silk, Yarn"
+7/7/2022 19:17,Tannery,Tanning,"Chest, Scraping Log, Store Front, Stretching Frame, Tanning Log, Tanning Pit","Hide, Leather",Leather
+7/7/2022 18:30,Cellar,Winemaking,"Barrel, Barrel Rails, Brewing Station, Cauldron, Grape Mashing Tub, Ground Storage, Shelves, Trellis, Well, Wooden Block","Firewood, Grapes, Honey, Plank","Grapes, Mead Barrel, Wine Barrel"
