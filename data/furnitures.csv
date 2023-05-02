@@ -1,0 +1,167 @@
+Items,Type,Resources,Quantity,Builder Profession
+Hay Wall,Wall,Straw,1,
+Cob Wall,Wall,"Wood Rod,Clay","3,1",
+Wattle Wall,Wall,"Wood Rod,Straw,Clay","4,1,1",
+Wooden Wall,Wall,Wood,1,Carpentering
+Lime Wall,Wall,Limestone Block,1,Architecture
+Stone Wall,Wall,Stone Block,1,Architecture
+Brick Wall,Wall,Brick,5,Architecture
+Wattle Fence,Wall,"Wood Rod,Straw","2,1",
+Wooden Fence,Wall,Wood,1,Carpentering
+Steel Fence,Wall,Steel Rod,1,Architecture
+Wooden Door,Wall,Plank,3,
+Heavy Door,Wall,Plank,5,Carpentering
+Steel Door,Wall,Steel Ingot,1,Architecture
+Wooden Fence Gate,Wall,Wood,1,Carpentering
+Steel Fence Gate,Wall,Steel Rod,2,Architecture
+Oak Wood Floor,Floor,Plank,1,Carpentering
+Brich Wood Floor,Floor,Plank,1,Carpentering
+Maple Wood Floor,Floor,Plank,1,Carpentering
+Poplar Wood Floor,Floor,Plank,1,Carpentering
+Spruce Wood Floor,Floor,Plank,1,Carpentering
+Stone Blocks Floor,Floor,Stone Block,1,Architecture
+Square Stone Floor,Floor,Stone Tile,1,Architecture
+Limestone Blocks Floor,Floor,Limestone Block,1,Architecture
+Limestone Tiles Floor,Floor,Limestone Tile,1,Architecture
+Square Limestone Floor,Floor,Limestone Tile,1,Architecture
+Stone Paving,Floor,Stone Tile,2,Architecture
+Stone Road,Floor,Stone,1,Architecture
+Limestone Road,Floor,Limestone,1,Architecture
+Wooden Bridge,Floor,Wood,1,
+Stone Bridge,Floor,Stone,1,Architecture
+Steel Bridge,Floor,"Steel Plate,Stone Block","1,2",Architecture
+Dirt Path,Floor,,,
+Grass Field,Floor,,,
+Thatched Roof,Roof,Straw,1,
+Plaited Roof,Roof,Wood Rod,1,
+Board Roof,Roof,Plank,1,Carpentering
+Tiled Roof,Roof,Brick,1,Architecture
+Alchemist's Workshop,Production_Nobles,"Plank,Stone Block","6,2",Architecture
+Altar,Production_Clergy,"Plank,Gold Ingot,Silk","6,1,2",Carpentering
+Anvil,Production_Peasants,"Wood,Steel Ingot","1,1",Architecture
+Apothecary Table,Production_Clergy,Plank,6,Carpentering
+Art Station,Production_Nobles,Plank,2,Carpentering
+Bar,Production_Essentials,Plank,6,
+Barrel,Storage,Plank,2,
+Barrel Rails,Storage,Plank,4,
+Beehive,Production_Clergy,"Plank,Wood Rod,Straw","2,1,1",
+Blast Furnace,Production_Peasants,"Stone Block,Leather,Rope","8,1,1",Architecture
+Bloomery,Production_Peasants,Clay,4,
+Bookcase,Storage,Plank,4,
+Bowyer's Workshop,Production_Peasants,Plank,4,Carpentering
+Brewing Station,Production_Peasants,Plank,4,Carpentering
+Bronze Statue,Decorations,Bronze Statue,1,
+Builder's Desk,Production_Peasants,Plank,6,Carpentering
+Butcher's Table,Production_Peasants,Plank,4,Carpentering
+Cabinet,Storage,Plank,4,
+Campfire,Decorations,Stone,1,
+Candle,Decorations,Wax,1,
+Caravan Storage,Storage,Plank,2,
+Cauldron,Production_Essentials,Stone,1,
+Chest,Storage,Plank,4,
+Chicken Bed,Production_Essentials,"Plank,Straw","1,2",
+Churn,Production_Essentials,Plank,2,
+Coinmaking Workshop,Production_Nobles,"Stone Block,Steel Ingot","3,1",Architecture
+Cooking Table,Production_Essentials,Plank,6,
+Cooling Casket,Production_Peasants,"Plank,Steel Rod","6,1",Architecture
+Execution Display,Production_Essentials,"Plank,Rope","6,1",Carpentering
+Expensive Bed,Furniture,"Wood,Plank,Silk","1,4,1",Carpentering
+Expensive Double Bed,Furniture,"Wood,Plank,Silk","5,6,2",Carpentering
+Expensive Stone Chair,Furniture,"Stone Block,Silk,Gem","12,1,2",Architecture
+Expensive Stone Table,Furniture,"Stone Block,Silk","18,1",Architecture
+Expensive Table 2x2,Furniture,"Stone Block,Silk","24,2",Architecture
+Expensive Window,Decorations,"Glass,Rope,Silk","4,1,1",Architecture
+Expensive Wooden Table,Furniture,"Plank,Gold Ingot,Gem","6,1,6",Carpentering
+Expensive Wooden Table 2x2,Furniture,"Plank,Gold Ingot,Gem","8,1,6",Carpentering
+Farming Soil,Production_Peasants,,,
+Filtering Tub,Production_Peasants,Plank,6,Carpentering
+Fireplace,Decorations,Brick,8,Architecture
+Fishing Net,Production_Peasants,Yarn,8,
+Fishing Rod,Production_Peasants,"Wood Rod,Yarn","4,1",
+Flailing Spot,Production_Peasants,Plank,2,
+Flower Pot,Decorations,Plank,1,
+Forest Feeder,Production_Peasants,Plank,6,Carpentering
+Glass Furnace,Production_Peasants,Stone Block,10,Architecture
+Golden Statue,Decorations,Golden Statue,1,
+Good Stone Bench,Furniture,Stone Block,16,Architecture
+Good Stone Chair,Furniture,Stone Block,12,Architecture
+Good Stone Table,Furniture,Stone Block,18,Architecture
+Good Stone Table 2x2,Furniture,Stone Block,32,Architecture
+Good Wooden Bench,Furniture,Plank,8,Carpentering
+Good Wooden Chair,Furniture,Plank,6,Carpentering
+Good Wooden Table,Furniture,"Plank,Silk","6,2",Carpentering
+Good Wooden Table 2x2,Furniture,"Plank,Silk","8,3",Carpentering
+Grape Mashing Tub,Production_Clergy,Plank,6,Carpentering
+Grinding Stone,Production_Peasants,"Wood,Stone Block","1,1",Architecture
+Ground Storage,Storage,Plank,1,
+Guard Post,Production_Essentials,Plank,2,
+Hideout,Production_Peasants,Plank,4,Carpentering
+Homegrowing Pot,Production_Clergy,Plank,2,
+Honey Extractor,Production_Clergy,"Plank,Wood Rod,Straw","2,1,1",
+Jack-O-Lantern,Decorations,Pumpkin,1,
+Jail Bench,Production_Essentials,Plank,5,Carpentering
+Jail Chair,Production_Essentials,Plank,3,Carpentering
+Jewelcrafting Table,Production_Nobles,"Plank,Steel Rod","6,1",Architecture
+Knackery,Storage,Plank,2,
+Lantern,Decorations,"Wood,Steel Rod,Rope","1,1,1",Architecture
+Leatherworking Table,Production_Peasants,Plank,4,Carpentering
+Loom,Production_Peasants,Plank,6,Carpentering
+Meat Hooks,Storage,Plank,4,Carpentering
+Memorial Grave,Production_Essentials,Stone,3,Architecture
+Noble Bed,Furniture,"Wood,Plank,Silk,Rope","1,6,4,1",Carpentering
+Nouble Double Bed,Furniture,"Wood,Plank,Silk,Rope","2,8,6,2",Carpentering
+Oil Lamp,Decorations,Steel Ingot,1,Architecture
+Outdoor Feeder,Production_Essentials,Plank,4,
+Oven,Production_Peasants,Wood,1,Architecture
+Painting,Decorations,Art,1,
+Paper Drier,Production_Clergy,"Plank,Yarn","4,3",Carpentering
+Paper Mill,Production_Clergy,"Plank,Wood","8,1",Carpentering
+Paper Sieve,Production_Clergy,"Plank,Leather,Yarn","6,8,3",Carpentering
+Public Stage,Production_Essentials,Plank,6,Carpentering
+Rope Walk,Production_Peasants,Plank,8,Carpentering
+Saw Horse,Production_Peasants,Wood,2,
+Scraping Log,Production_Peasants,Wood,1,
+Sculpting Station,Production_Nobles,Stone Block,1,Architecture
+Shelves,Storage,Plank,4,
+Silo,Storage,Clay,1,
+Silver Statue,Decorations,Silver Statue,1,
+Smithing Workshop,Production_Peasants,"Plank,Steel Ingot","6,1",Architecture
+Speaking Table,Production_Essentials,Plank,4,Carpentering
+Spinning Wheel,Production_Peasants,Plank,4,Carpentering
+Standing Candle,Decorations,Wax,1,
+Steel Bench,Furniture,Steel Ingot,4,Architecture
+Steel Window,Decorations,"Glass,Steel Plate","4,2",Architecture
+Stone Bench,Furniture,Stone Block,8,Architecture
+Stone Chair,Furniture,Stone Block,6,Architecture
+Stone Grave,Production_Essentials,Stone,2,Architecture
+Stone Statue,Decorations,Stone Statue,1,
+Stone Table,Furniture,Stone Block,12,Architecture
+Stone Table 2x2,Furniture,Stone Block,16,Architecture
+Store Front,Production_Essentials,Plank,1,
+Straw Bed,Furniture,"Plank,Straw","2,2",
+Straw Double Bed,Furniture,"Plank,Straw","4,4",
+Stretching Frame,Production_Peasants,Plank,3,Carpentering
+Tailoring Workshop,Production_Peasants,Plank,4,Carpentering
+Tanning Log,Production_Peasants,Wood,1,Carpentering
+Tanning Pit,Production_Peasants,Wood,1,Carpentering
+Tending Station,Production_Clergy,"Plank,Silk","1,1",Carpentering
+Theatre Stage,Production_Nobles,"Plank,Rope","8,2",Carpentering
+Torch,Decorations,,,
+Training Dummy,Production_Essentials,"Plank,Straw","1,1",
+Trap,Production_Peasants,Steel Rod,1,
+Tree,Production_Essentials,,,
+Trellis,Production_Clergy,"Wood,Yarn","1,1",
+Upholstered Chair,Furniture,"Plank,Silk","6,1",Carpentering
+Weapon Rack,Storage,"Plank,Steel Rod","2,1",
+Well,Production_Essentials,Stone,4,
+Windmill,Production_Peasants,"Wood,Plank,Stone,Rope","4,6,4,2",Carpentering
+Wooden Bed,Furniture,"Wood,Plank","1,4",Carpentering
+Wooden Bench,Furniture,Plank,5,
+Wooden Block,Production_Essentials,Wood,1,
+Wooden Chair,Furniture,Plank,3,
+Wooden Double Bed,Furniture,"Wood,Plank","2,6",Carpentering
+Wooden Grave,Production_Essentials,Wood,1,
+Wooden Table,Furniture,Plank,6,
+Wooden Table 2x2,Furniture,Plank,12,
+Wooden Window,Decorations,"Glass,Plank","4,4",Carpentering
+Writing Table,Production_Clergy,Plank,4,Carpentering
